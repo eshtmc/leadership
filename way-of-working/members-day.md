@@ -17,42 +17,54 @@
 ###  Announcement 
 
 *  In officer meeting  before the members day notify officer committee and President to spare a slot for announcement in regular meeting
-* Book meeting room \(if Innovation is not available\) send it to Toastmasters-SH after officer meeting
+* Book meeting room \(if Innovation Room is not available\) send meeting request to Toastmasters-SH after officer meeting
 * In regular meeting same week with officer meeting make announcement engaging members to join “Members’ Day”
 
 ### Preparation
 
 #### Meeting Design
 
-* Brainstorm with VPM team the theme for the meeting
-* Design the meeting work flows \(e.g. 1. Opening 2. Celebrate birthday 3. Games 4. Closing\)
-* Seek support from other teams if need  \(e.g. Tools from SAA , Broadcasting from VPPR\)
+* Brainstorming with VPM team the theme for the meeting
+* Check on "Members List" if any new comers join recently
+* Check on "Members List" the names of  birthday Toastmasters within recent two months
+* Design the meeting work flows
+  * Opening warm up session 
+  * New member welcome if have 
+  * Celebrate birthday 
+  * Playing Games 
+  * Closing
+* Seek support from other teams if need  \(e.g. Materials or Tools from SAA , Broadcasting from VPPR\)
 * Define or invite Host for Members Day \(VPMs or others Toastmasters\)
-* Check on "Members List" the names of  birthday Toastmasters within these two months
 
 #### Birthday Cake
 
-* Buy cakes or fruits within the budget \(2-300 rmb\) make sure it's ready before the meeting
+* Buy cake \(fruits or snacks\) within the budget \(2-300 rmb\) 
+
+### Execution 
 
 #### Before Meeting
 
-* Make sure the cakes are ready
+* Make sure the cakes \(fruits or snacks\) are ready
 * Make sure the Host of Members Day are ready
 * Make sure all the materials or tools used for the Members Day are ready
 * Make sure the Host are familiar with the meeting workflow
-* Ask the owner of Members wechat group to notify all members before the meeting 
+* Ask the owner of Members wechat group to engage all members to join before the meeting 
 * Come to the meeting room earlier before the meeting start 
 
-###  On The Meeting
+#### During Meeting
 
 * Guide the members to follow the planned workflow
 * Take photos / group photos send into wechat groups 
-* Secretary Team will collect photos store in photos website  
+* Secretary Team will collect photos store in photos website
+
+#### After Meeting 
+
+* Send mail to Treasure for cake \(fruits or snacks\) reimbursement 
 
 ##   Tools
 
 * ESHTMC\_Club\_Role\_Plan\_&lt;year&gt;.xls in Shanghai\_TMC\public folder
-* Member\_list.xlsx in Shanghai\_TMC\officers\Membership folder   
+* Member\_list.xlsx in Shanghai\_TMC\officers\Membership folder  
 
 ## Reference Themes
 
