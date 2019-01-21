@@ -16,7 +16,7 @@
 
 ###  Announcement 
 
-*  In officer meeting  before the members day notify officer committee and President to spare a slot for announcement in regular meeting
+* In officer meeting  before the members day notify officer committee and President to spare a slot for announcement in regular meeting
 * Book meeting room \(if Innovation Room is not available\) send meeting request to Toastmasters-SH after officer meeting
 * In regular meeting same week with officer meeting make announcement engaging members to join “Members’ Day”
 
