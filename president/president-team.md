@@ -9,7 +9,7 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 * New Officer Installation
 * Club Officer Training \(COT\)
 * Club Goal Planning and Followup
-* Committee Meeting
+* Officer Meeting
 * Regular Meeting
 * Team Building
 * Management Report  
@@ -44,9 +44,9 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 * President followup DCP achievement regularly seek support from teams if any risks 
 * President share club achievement and working progress regularly to Officer Committee   
 
-### Committee Meeting
+### Officer Meeting \(Committee Meeting\)
 
-* Prior to the committee meeting \(officer meeting\) President check on the club planning if any event will come shortly  
+* Prior to the officer meeting \(committee meeting\) President check on the club planning if any event will come shortly  
 * President seek the topic from each team if any 
 * President prepare the agenda, the agenda may includes 
 * * Regular Meeting Role Setting
@@ -103,7 +103,7 @@ Go to [Toastmaster Internal website \(TI\) ](https://www.toastmasters.org)Leader
 
 ![Goal Points](../.gitbook/assets/screen-shot-2019-01-20-at-3.12.25-pm.png)
 
-To achieve President's  Distinguished need to gain 9 points, if can achieve 10 points will reward golden pin from Toastmaster International 
+To achieve President's  Distinguished needs 9 points, if can achieve 10 points will be rewarded golden pin from Toastmaster International 
 
 10 points includes
 
