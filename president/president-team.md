@@ -93,19 +93,23 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 * Share the date with Contest Chair define a date for Club Contest
 * Provide support to Contest Chair for Contest Activities \(see Club Speech Contest \)
 
+## Team Collaboration
+
+President team provide support for each team 
+
 ## District Club Performance \(DCP\)
 
 Go to [Toastmaster Internal website \(TI\) ](https://www.toastmasters.org)Leadership Central dashboard click "Districted Performance Reports" 
 
 ![Goal Points](../.gitbook/assets/screen-shot-2019-01-20-at-3.12.25-pm.png)
 
-To achieve President's  Distinguished need to gain 9 points, but if achieve 10 points the will reward golden pin from Toastmaster International 
+To achieve President's  Distinguished need to gain 9 points, if can achieve 10 points will reward golden pin from Toastmaster International 
 
 10 points includes
 
 * Administration 1 points
 * Training 1 points
-* Membership 1 points
+* Membership 2 points
 * Education 6 pints   
 
 ## Tools
@@ -117,5 +121,5 @@ To achieve President's  Distinguished need to gain 9 points, but if achieve 10 p
 
 ## Reference
 
-* Club handbook
+* Club Leadership Handbook
 
