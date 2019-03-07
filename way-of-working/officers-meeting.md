@@ -16,9 +16,13 @@ The officers meeting is usually planned on biweekly Monday noon from 12:10 - 13:
 
 * 1 week before the officers meeting, president checks with all officers to collect discussion items
   * If there're many discussion items, make a priority and think about ways to make the discussion more efficient.
+* If the president can't join the meeting, find an acting president to host that meeting and inform officers team about it.
+  * default sequence: president assistant -&gt; VPE -&gt; VPM -&gt; VPPR
 * President send out the outlook invitation with the officer meeting agenda by latest on Friday
   * good to use the template / format from the president working plan: meeting agenda
-* President remind officers to attend the officers meeting and ask for leave on Monday morning
+* President remind officers to attend the officers meeting and ask for leave on Monday morning For absent officers that not ask for leave, need to send 20 RMB red package to officers wechat group.
+  * For each team, one represent is required to join the officers meeting
+  * For president and vice president team, it's recommended for all to join in 
 * In the meeting, follow the agenda to go through discussion one by one. Come up with conclusions to address each discussion
 * For any discussion, when there're different views / suggestions, president can appoint the facilitator to have better conversation. Officer Voting can be introduced after thorough discussion.
   * voting rule: half of the main officers are present; the majority of vote wins
