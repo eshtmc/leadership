@@ -69,7 +69,7 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 * Before Closing President get the voting result from SAA team for best performance 
 * In the Closing session  
   * President share the feedback of today's meeting
-  * President announce the best performance \(best table topic speakers/speakers/evaluators\) 
+  * President announce the best performance \(best table topic speakers/speakers/evaluates\) 
   * President invite first come new guest on the stage for introduction 
   * President adjure the meeting with group photo taking     
 
@@ -112,8 +112,8 @@ To achieve President's  Distinguished needs 9 points, if can achieve 10 points w
 
 10 points includes
 
-* Administration 1 points \(new officer registration\)
-* COT 1 points \(twice training\)
+* Administration 1 point \(new officer registration\)
+* COT 1 point \(twice training\)
 * Membership 2 points \(8 members growth\)
 * Education 6 points \(pathways\)  
 
