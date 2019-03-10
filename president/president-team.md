@@ -126,5 +126,8 @@ To achieve President's  Distinguished needs 9 points, if can achieve 10 points w
 
 ## Reference
 
-* Club Leadership Handbook
+References located in Shanghai\_TMC\officers\gitbook
+
+* Club Leadership Handbook.pdf
+* Toastmasters Club Officer Roles.mp4 video 
 
