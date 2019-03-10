@@ -86,6 +86,11 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 
 ### Management Report
 
+* Schedule date with Club Sponsor in January - February 
+* Demonstrate club achievement in the past year  and what activities will plan in the coming year
+* The achievement may include members' growth \(communication and leadership\), Sponsor's exceptions
+* After management report, pass information to club officers in officer meeting
+
 ### Spring Contest
 
 * Get the date from COT \(December - February\)  
@@ -99,7 +104,7 @@ President team provide support for each team
 
 ## District Club Performance \(DCP\)
 
-Go to [Toastmaster Internal website \(TI\) ](https://www.toastmasters.org)Leadership Central dashboard click "Districted Performance Reports" 
+Go to [Toastmaster Internal website \(TI\) ](https://www.toastmasters.org)Leadership Central dashboard click "District Performance Reports" 
 
 ![Goal Points](../.gitbook/assets/screen-shot-2019-01-20-at-3.12.25-pm.png)
 
@@ -107,10 +112,10 @@ To achieve President's  Distinguished needs 9 points, if can achieve 10 points w
 
 10 points includes
 
-* Administration 1 points
-* Training 1 points
-* Membership 2 points
-* Education 6 pints   
+* Administration 1 points \(new officer registration\)
+* COT 1 points \(twice training\)
+* Membership 2 points \(8 members growth\)
+* Education 6 points \(pathways\)  
 
 ## Tools
 
