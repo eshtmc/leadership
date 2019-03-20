@@ -22,17 +22,19 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 
 ### New Officer Installation
 
-* Immediate Past President seek and encourage potential members or members willing to take officer roles as candidate during his/her term as President 
-* Immediate Past President plan a meeting \(regular meeting or spare meeting\) for Officer Election in end of May
-* Immediate Past President send mail to Toastmasters-SH for new officer recruitment a month before Officer Election 
-* Immediate Past President seek support from VPPR team wechat for Officer Election broadcasting 
+* President seek and encourage potential members or members willing to take officer roles as candidate during his/her term as President 
+* President plan a meeting \(regular meeting or spare meeting\) for Officer Election in end of May
+* President send mail to Toastmasters-SH for new officer recruitment a month before Officer Election 
+* President seek support from VPPR team wechat for Officer Election broadcasting 
 * After Officer Election the new officer committee setup
-* Before July 1st new President must register new officers in TI website Leadership Central -&gt;  Club Central -&gt; Club Administration -&gt; Club Officer Assignment to guarantee 1 point of Distinguished Club Performance \(DCP\) gained  
+* Before July 1st new President must register new officers in TI website Leadership Central -&gt;  Club Central -&gt; Club Administration -&gt; Club Officer Assignment to guarantee Administration point of DCP \(Distinguished Club Performance\) 
+
+  gained  
 
 ### Club Officer Training \(COT\)
 
-* President interact with Area Director the accurate date for Club Officer Training \(COT\) which will hold twice every half year \(July-August, December-February \)
-* President encourage at least 4 officers to join each COT to guarantee 1 point gained for Training   
+* President interact with Area Director the accurate date for Club Officer Training \(COT\) which will hold twice every year \(July-August, December-February \)
+* President encourage at least 4 officers to join each COT, complete twice COT participation, 1 point of DCP will be gained  
 
 ### Club Goal Planning and Followup
 
@@ -44,23 +46,13 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 * President followup DCP achievement regularly seek support from teams if any risks 
 * President share club achievement and working progress regularly to Officer Committee   
 
-### Officer Meeting \(Committee Meeting\)
+### Officer Meeting 
 
-* Prior to the officer meeting \(committee meeting\) President check on the club planning if any event will come shortly  
-* President seek the topic from each team if any 
-* President prepare the agenda, the agenda may includes 
-* * Regular Meeting Role Setting
-  * Event will come shortly
-  * Topics raise by officer teams
-  * Action followups
-* President book a meeting room \(12:10 - 13:00\) and send agenda before the meeting
-* During the meeting president need to make sure the time management
-* President seek support from Secretary team to record the meeting event, action points
-* President seek support from Secretary team to send Meeting Minutes after committee meeting   
+{% page-ref page="../way-of-working/officers-meeting.md" %}
 
 ### Regular Meeting
 
-* Before regular meeting President observe the activities happen recently, check with committees if any announcement need to make 
+* Before regular meeting President observe the activities happen recently, check with officer team if any announcement need to make 
 * In the Opening session 
   * President share the activities he/she observed
   * President introduce Toastmasters International or ESHTMC when he/she see the first come new guests
@@ -69,32 +61,26 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 * Before Closing President get the voting result from SAA team for best performance 
 * In the Closing session  
   * President share the feedback of today's meeting
-  * President announce the best performance \(best table topic speakers/speakers/evaluates\) 
+  * President announce the best performance \(best table topic speaker/prepared speaker/elevator \) 
   * President invite first come new guest on the stage for introduction 
+  * President invite officer to make announcement if any
   * President adjure the meeting with group photo taking     
 
 ### Team Building
 
-* President spare budget for team building
-* Depend on the budget President can plan committee team building or club team building
-* President includes the team building activities in the yearly plan 
-* The team building may includes
-  * Regular committee building in committee meeting \(e.g. lunch meeting/game playing\)
-  * seek support from VPM team for Half/Whole Day committee/club team building \( e.g. outing/karaoke/hiking/hongpa）
-
-  
+{% page-ref page="../way-of-working/officers-team-building.md" %}
 
 ### Management Report
 
 * Schedule date with Club Sponsor in January - February 
 * Demonstrate club achievement in the past year  and what activities will plan in the coming year
-* The achievement may include members' growth \(communication and leadership\), Sponsor's exceptions
-* After management report, pass information to club officers in officer meeting
+* The achievement may include members' growth \(communication and leadership\), Sponsor's expectations
+* After management report, share information to club officers in officer meeting
 
 ### Spring Contest
 
 * Get the date from COT \(December - February\)  
-* Sit with Committee find Contest Chair candidate 
+* Sit with Officer Team to find Contest Chair candidate 
 * Share the date with Contest Chair define a date for Club Contest
 * Provide support to Contest Chair for Contest Activities \(see Club Speech Contest \)
 
@@ -120,9 +106,10 @@ To achieve President's  Distinguished needs 9 points, if can achieve 10 points w
 ## Tools
 
 * [Toastmaster Internal website \(TI\) ](https://www.toastmasters.org)
+* TOASTMASTERS-SH-OFFICERS mail box 
 * New term Officer recruitment mail template
-* Yearly working plan excel sheet
-* Action followups excel sheet  
+* Yearly working plan excel sheet template
+* Action follow ups excel sheet template
 
 ## Reference
 
@@ -130,4 +117,5 @@ References located in Shanghai\_TMC\officers\gitbook
 
 * Club Leadership Handbook.pdf
 * Toastmasters Club Officer Roles.mp4 video 
+* templates 
 
