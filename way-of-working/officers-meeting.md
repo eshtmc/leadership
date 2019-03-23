@@ -20,12 +20,14 @@ The officers meeting is usually planned on biweekly Monday noon from 12:10 - 13:
   * default sequence: president assistant -&gt; VPE -&gt; VPM -&gt; VPPR
 * President send out the outlook invitation with the officer meeting agenda by latest on Friday
   * good to use the template / format from the president working plan: meeting agenda
-* President remind officers to attend the officers meeting and ask for leave on Monday morning For absent officers that not ask for leave, need to send 20 RMB red package to officers wechat group.
-  * For each team, one represent is required to join the officers meeting
+* President remind officers to attend the officers meeting and ask for leave on Monday morning For absent officers \(except the treasurer team\) that not ask for leave, each one in that team shall send 20 RMB red package to president. Red package will later be used for team building.
+  * For each team \(except the treasurer team\), one represent is required to join the officers meeting
+  * Treasurer team is considered optional because we are not a social club, no need to collect entrance fee. However, it's recommend for treasurer to come and join.
   * For president and vice president team, it's recommended for all to join in 
 * In the meeting, follow the agenda to go through discussion one by one. Come up with conclusions to address each discussion
 * For any discussion, when there're different views / suggestions, president can appoint the facilitator to have better conversation. Officer Voting can be introduced after thorough discussion.
   * voting rule: half of the main officers are present; the majority of vote wins
+    * if one main officer no longer in the club / company, the assistant get the voting right
 * For any discussion item involving financial expenditure more than 100 RMB. It will need the approval from the treasurer. 
 * If secretary team is present, seek help from secretary to keep down and distribute the meeting minutes, including:
   * meeting participation
@@ -45,5 +47,8 @@ The officers meeting is usually planned on biweekly Monday noon from 12:10 - 13:
 ## Tools
 
 * Excel: President Working Plan
-* Excel: Club Meeting Arrange Plan
+
+## Reference
+
+* Excel: Club Role Booking
 
