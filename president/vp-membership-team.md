@@ -6,9 +6,9 @@ Promote the club and manage the process of bringing in guests and transforming t
 
 ## Activities
 
-* Recruit potential members 
-* Register new members 
-* Membership renewal
+* Recruit Potential Members 
+* Register New Members 
+* Membership Renewal
 * Members' Day  
 
 ## Checklist
