@@ -1,26 +1,28 @@
-# Members' Day
+# Members' Activities
 
-## Introduction 
+## Purpose  
 
 * The purpose for members day is to build social networking between members, celebrating member's birthday, giving best wishes, playing games, enjoying the joyful moment.
 * Members' Day planned bi-monthly. \(e.g. January, Mar, May, July, September, November\) 
 
-## Action Steps 
+## Lazy Guide 
 
-### Planning
+### Member's Day 
+
+#### Planning
 
 * Pre-plaining twice in June before new officer installation \(During handover\) and December the end of first half term
 * Check with President or VPE if the yearly meeting arrangement is ready
 * Check on yearly meeting arrangement sheet choose date in odd month \(avoid regular meeting or any holidays\) define the date for the half year
 * Book Innovation Room in advance  \(12:00 - 13:00\) 
 
-###  Announcement 
+####  Announcement 
 
 * In officer meeting  before the members day notify officer committee and President to spare a slot for announcement in regular meeting
 * Book meeting room \(if Innovation Room is not available\) send meeting request to Toastmasters-SH after officer meeting
 * In regular meeting same week with officer meeting make announcement engaging members to join “Members’ Day”
 
-### Preparation
+#### Preparation
 
 #### Meeting Design
 
@@ -40,9 +42,9 @@
 
 * Buy cake \(fruits or snacks\) within the budget \(2-300 rmb\) 
 
-### Execution 
+#### Execution 
 
-#### Before Meeting
+#### **Before Meeting**
 
 * Make sure the cakes \(fruits or snacks\) are ready
 * Make sure the Host of Members Day are ready
@@ -54,14 +56,27 @@
 #### During Meeting
 
 * Guide the members to follow the planned workflow
-* Take photos / group photos send into wechat groups 
+* VPM or candidate take photos/group photos send into wechat groups 
 * Secretary Team will collect photos store in photos website
 
 #### After Meeting 
 
 * Send mail to Treasure for cake \(fruits or snacks\) reimbursement 
 
-##   Tools
+## Members' Maintenance
+
+### Members Record Maintenance
+
+* 
+### Birthday Greetings  
+
+* Get latest renewal from Toastmaster International -&gt; Club Rosters every semi-term \(July - Mar, Mar - June\)
+* Compare with member\_list.xlsx members not included 
+* Confirm with members not included in member\_list.xlsx the information needed 
+* Make reminder in calendar the upcoming birthdays 
+* Send greetings to birthday member by mail or in wechat group
+
+## Tools
 
 * ESHTMC\_Club\_Role\_Plan\_&lt;year&gt;.xls in Shanghai\_TMC\public folder
 * Member\_list.xlsx in Shanghai\_TMC\officers\Membership folder  

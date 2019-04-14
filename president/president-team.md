@@ -18,7 +18,7 @@ They set the tone for the club and provide a helpful, supportive leadership for 
 
 * Spring Contest 
 
-## Checklist 
+## Lazy Guide  
 
 ### New Officer Installation
 

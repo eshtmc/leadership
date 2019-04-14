@@ -8,7 +8,7 @@
 * [Regular Meeting](way-of-working/regular-meeting.md)
 * [Meeting Role Booking](way-of-working/meeting-role-booking.md)
 * [Meeting Agenda](way-of-working/meeting-agenda.md)
-* [Members' Day](way-of-working/members-day.md)
+* [Members' Activities](way-of-working/members-day.md)
 * [Club Speech Contest](way-of-working/club-speech-contest.md)
 * [Officers Team Building](way-of-working/officers-team-building.md)
 
