@@ -1,6 +1,8 @@
 # Secretary Team
 
-Responsibility maintain all club records, manage club files, handle club correspondence, and take the minutes at each club and executive committee meeting. You are also in charge of updating and distributing a roster of the current paid membership, and keeping the club officer list current at World Headquarters.
+## Responsibility 
+
+maintain all club records, manage club files, handle club correspondence, and take the minutes at each club and executive committee meeting. You are also in charge of updating and distributing a roster of the current paid membership, and keeping the club officer list current at World Headquarters.
 
 Activities
 
