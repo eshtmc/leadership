@@ -64,7 +64,7 @@ NMO is a good opportunity for new members know better of Toastmaster, Shanghai E
 * Suggest to arrange this NMO especially when there are many new members joined in club in a period of time.
 * The NMO slides for Jan. 2019 is under public folder\(update later\)
 
-**2.  Other education program**
+2.  **Other education program**
 
 VPE drive different education program to help member learning better based on member's requirements and needs. for example, TT\(Table Topic\) Camp and Debate Camp have been delivered in previous terms.
 
