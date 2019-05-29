@@ -28,28 +28,23 @@ As vice president education, you schedule members’ speeches, verify the comple
 #### Approve requests and awards
 
 * VPE takes the role of Base Camp manager in the Toastmasters Pathways. 
-
-  Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
-
+  * Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
 * VPE takes the role of CC&CL approval. 
-
-  Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
-
+  * Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
 * Approve requests when a member finishes each level in pathways.
-
-  Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Pathways -&gt; Base Camp -&gt; Base Camp Manager -&gt; Pending Requests -&gt; Approve
+  * Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Pathways -&gt; Base Camp -&gt; Base Camp Manager -&gt; Pending Requests -&gt; Approve
 
 **Support Member Growth**
 
 * Arrange P2P talk with new members about the following topics:
 
-1. Member's willingness of joining Toastmaster
-2. Member's goal in Toastmaster this year
-3. Members' needed support
-4. Access right to link \shg.cn.ao.ericsson.se\Shanghai\_TMC\public
-5. One supporter to the new member
+  * Member's goal in Toastmaster this year
+  * Members' needed support
+  * Member's willingness of joining Toastmaster
+  * Access right to link \shg.cn.ao.ericsson.se\Shanghai\_TMC\public
+  * One supporter to the new member
 
-One example is in the &lt;link&gt;.
+      One example is in the &lt;link&gt;.
 
 * Support P2P talk with all members to schedule the every half year plan according to members' goal and fill in the role plan table.
 
@@ -63,21 +58,23 @@ One example is in the &lt;link&gt;.
 
 #### **1. NMO\(New Member Orientation\)**
 
-* Suggest to have this NMO If there are many new members joined in club in a period of time.
+NMO is a good opportunity for new members know better of Toastmaster, Shanghai Ericsson Toastmaster Club and know how to grow up in toastmaster club.
+
+* Arrange this NMO at least one time each year
+* Suggest to arrange this NMO especially when there are many new members joined in club in a period of time.
 * The NMO slides for Jan. 2019 is under xxxxxx
-* Normally, the workshop time is 1 hour at noon time.
 
 **Offer Internal Awards**
 
 * Every half year, ****VPE would offer internal awards and host award session in the last regular meeting in Dec. and in Jun.
 * There are 2 categories of awards:
-* **Meeting related:**
-* The Most Meeting Attendees 
-* The Most Role Takers 
-* The Most Table Topic Attendees
-* **Education related:** 
-* Achieve CC,CL,finish one level in pathway
-* Prepare gift and certificates before the meeting 
+  * **Meeting related:**
+    * The Most Role Takers 
+    * The Most Meeting Attendees 
+    * The Most Table Topic Attendees
+* * **Education related:** 
+    * Achieve CC,CL,finish one level in pathway
+* Prepare gift and certificates before the meeting
 * Get the data about meeting related awards with the help of secretory.
 
 ## Reference
