@@ -52,7 +52,7 @@ As vice president education, you schedule members’ speeches, verify the comple
 
 * One supporter would be arranged to new member after VPE finish face to face talk with new member.
 * Supporter is one experienced club member who help new member learn and grow fast and effectively in club
-* For detailed responsibility of supporter and supporter process, please see the slides under public folder.
+* For detailed responsibility of supporter and supporter process, please see the slides under public folder.\(\)
 
 **Drive Education Program**
 
@@ -62,9 +62,9 @@ NMO is a good opportunity for new members know better of Toastmaster, Shanghai E
 
 * Arrange this NMO at least one time each year
 * Suggest to arrange this NMO especially when there are many new members joined in club in a period of time.
-* The NMO slides for Jan. 2019 is under public folder\(update later\)
+* The NMO slides for Jan. 2019 is under public folder\(\shg.cn.ao.ericsson.se\Shanghai\_TMC\public\Education Materials\ESHTMC New Member Orientation\_201901\_PA2.ppt\)
 
-2.  **Other education program**
+**2.  Other education program**
 
 VPE drive different education program to help member learning better based on member's requirements and needs. for example, TT\(Table Topic\) Camp and Debate Camp have been delivered in previous terms.
 
