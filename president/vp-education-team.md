@@ -17,8 +17,8 @@ As vice president education, you schedule members’ speeches, verify the comple
 
 **Manage Club Meetings**
 
-* Assign the meeting manager according to the plan &lt;regular meeting plan link&gt;. Make sure meeting manager starts meeting preparation two weeks in advance.
-* Collaborate with meeting managers and other officers to get all meeting roles properly fulfilled.
+* Assign the meeting manager according to the plan &lt;regular meeting plan link&gt;. Assist meeting manager of meeting preparation two weeks in advance.
+* Collaborate with meeting managers and other officers to get all meeting roles properly fulfilled; for example, don't assign a new member to be the TMD of their first meeting.
 * Make sure the meeting smoothly planned according to &lt;"how to arrange a meeting" link&gt;.
 * Collaborate with meeting managers to adjust the meetings' agenda according to special sessions; for example, remove role or session when there is one 20 mins' external sharing; arrange speech marathon if the scheduled speeches are more than 4.
 
@@ -35,7 +35,16 @@ As vice president education, you schedule members’ speeches, verify the comple
 
 **Support Member Growth**
 
-* a
+* Arrange P2P talk with new members about the following topics:
+
+1. Member's willingness of joining Toastmaster
+2. Member's goal in Toastmaster this year
+3. Needed support for the members
+4. Authorize the access right to link \shg.cn.ao.ericsson.se\Shanghai\_TMC\public
+5. Arrange one supporter to the new member
+
+* Arrange P2P talk with other members to schedule the every half year plan in &lt;regular meeting plan link&gt;
+* Follow up the results of plan completion. Help members if they have problems to complete the plan.
 
 **Manage Supporter Program**
 
