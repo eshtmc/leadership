@@ -7,7 +7,7 @@ As vice president education, you schedule members’ speeches, verify the comple
 ## Activities
 
 * Manage Club Meetings
-* Approve Education Awards
+* Approve Requests and Awards
 * Support Member Growth
 * Manage Supporter Program
 * Drive Education Program
@@ -62,7 +62,11 @@ NMO is a good opportunity for new members know better of Toastmaster, Shanghai E
 
 * Arrange this NMO at least one time each year
 * Suggest to arrange this NMO especially when there are many new members joined in club in a period of time.
-* The NMO slides for Jan. 2019 is under xxxxxx
+* The NMO slides for Jan. 2019 is under public folder\(update later\)
+
+**2.  Other education program**
+
+VPE drive different education program to help member learning better based on member's requirements and needs. for example, TT\(Table Topic\) Camp and Debate Camp have been delivered in previous terms.
 
 **Offer Internal Awards**
 
@@ -75,7 +79,7 @@ NMO is a good opportunity for new members know better of Toastmaster, Shanghai E
 * * **Education related:** 
     * Achieve CC,CL,finish one level in pathway
 * Prepare gift and certificates before the meeting
-* Get the data about meeting related awards with the help of secretory.
+* Get the person names about meeting related awards with the help of secretory.
 
 ## Reference
 
