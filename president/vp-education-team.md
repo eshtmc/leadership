@@ -17,17 +17,25 @@ As vice president education, you schedule members’ speeches, verify the comple
 
 **Manage Club Meetings**
 
-* **a**
-* **b**
-* **c**
+* Assign the meeting manager according to the plan &lt;regular meeting plan link&gt;. Make sure meeting manager starts meeting preparation two weeks in advance.
+* Collaborate with meeting managers and other officers to get all meeting roles properly fulfilled.
+* Make sure the meeting smoothly planned according to &lt;"how to arrange a meeting" link&gt;.
+* Collaborate with meeting managers to adjust the meetings' agenda according to special sessions; for example, remove role or session when there is one 20 mins' external sharing; arrange speech marathon if the scheduled speeches are more than 4.
 
 **Approve Education Awards**
 
-* **a**
-* **b**
-* **c**
+* Take the role of Base Camp manager in the Toastmasters Pathways. There are two steps to approve members' pathway levels:
+
+1. login [https://www.toastmasters.org](https://www.toastmasters.org), go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
+2. login [https://www.toastmasters.org](https://www.toastmasters.org), go to Pathways -&gt; Go to Base Camp -&gt; Log in as Base Camp Manager -&gt; Pending Requests -&gt; Approve
+
+* Take the role of CC&CL approval. 
+
+  login [https://www.toastmasters.org](https://www.toastmasters.org), go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
 
 **Support Member Growth**
+
+* a
 
 **Manage Supporter Program**
 
