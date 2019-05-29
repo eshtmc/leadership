@@ -18,7 +18,7 @@ As vice president education, you schedule members’ speeches, verify the comple
 **Manage Club Meetings**
 
 * Support meeting managers to get all meeting roles properly fulfilled; for example, don't assign a new member to be the TMD of their first meeting.
-* Check if the meeting preparation smoothly on-going according to the public link: \shg.cn.ao.ericsson.se\Shanghai\_TMC\officers\Meeting Managers\Club\_Meeting\_Arrangement\_PA6
+* Check if the meeting preparation smoothly on-going according to the public link: \(\\shg.cn.ao.ericsson.se\Shanghai\_TMC\officers\Meeting Managers\Club\_Meeting\_Arrangement\_PA6.xlsx\)
 * Collaborate with meeting managers to adjust the meetings' agenda according to special sessions:
 
   * Suggest to remove Ah-counter or Grammarian role when the meeting will exceed one hour and 45 minutes.
@@ -41,12 +41,12 @@ As vice president education, you schedule members’ speeches, verify the comple
   * Member's goal in Toastmaster this year
   * Members' needed support
   * Member's willingness of joining Toastmaster
-  * Access right to link \shg.cn.ao.ericsson.se\Shanghai\_TMC\public
+  * Access right to public link: \(\shg.cn.ao.ericsson.se\Shanghai\_TMC\public\)
   * One supporter to the new member
 
   One example is in the public link:
 
-  \shg.cn.ao.ericsson.se\Shanghai\_TMC\officers\Education\2018-2019\_Term\1-1\_Talk\11 talk summary
+  \(\\shg.cn.ao.ericsson.se\Shanghai\_TMC\officers\Education\2018-2019\_Term\1-1\_Talk\11 talk summary.msg\)
 
 * Support P2P talk with all members to schedule the every half year plan according to members' goal and fill in the role plan table.
 
