@@ -52,7 +52,7 @@ As vice president education, you schedule members’ speeches, verify the comple
 
 * One supporter would be arranged to new member after VPE finish face to face talk with new member.
 * Supporter is one experienced club member who help new member learn and grow fast and effectively in club
-* For detailed responsibility of supporter and supporter process, please see the slides under public folder.\(\)
+* For detailed responsibility of supporter and supporter process, please see the slides under public folder.\(\shg.cn.ao.ericsson.se\Shanghai\_TMC\officers\Education\2018-2019\_Term\Supporter program.pptx\)
 
 **Drive Education Program**
 
