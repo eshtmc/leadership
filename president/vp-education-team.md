@@ -17,21 +17,27 @@ As vice president education, you schedule members’ speeches, verify the comple
 
 **Manage Club Meetings**
 
-* Assign the meeting manager according to the plan &lt;regular meeting plan link&gt;. Assist meeting manager of meeting preparation two weeks in advance.
-* Collaborate with meeting managers and other officers to get all meeting roles properly fulfilled; for example, don't assign a new member to be the TMD of their first meeting.
-* Make sure the meeting smoothly planned according to &lt;"how to arrange a meeting" link&gt;.
-* Collaborate with meeting managers to adjust the meetings' agenda according to special sessions; for example, remove role or session when there is one 20 mins' external sharing; arrange speech marathon if the scheduled speeches are more than 4.
+* Support meeting managers to get all meeting roles properly fulfilled; for example, don't assign a new member to be the TMD of their first meeting.
+* Check if the meeting preparation smoothly on-going according to &lt;"how to arrange a meeting" link&gt;.
+* Collaborate with meeting managers to adjust the meetings' agenda according to special sessions:
 
-**Approve Education Awards**
+  * Suggest to remove Ah-counter or Grammarian role when the meeting will exceed one hour and 45 minutes.
+  * Remove one speech and one IE or remove TTM session  when there is a 25 minutes' sharing.
+  * Arrange speech marathon if the scheduled speeches number is more than 4.
 
-* Take the role of Base Camp manager in the Toastmasters Pathways. There are two steps to approve members' pathway levels:
+#### Approve requests and awards
 
-1. login [https://www.toastmasters.org](https://www.toastmasters.org), go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
-2. login [https://www.toastmasters.org](https://www.toastmasters.org), go to Pathways -&gt; Go to Base Camp -&gt; Log in as Base Camp Manager -&gt; Pending Requests -&gt; Approve
+* VPE takes the role of Base Camp manager in the Toastmasters Pathways. 
 
-* Take the role of CC&CL approval. 
+  Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
 
-  login [https://www.toastmasters.org](https://www.toastmasters.org), go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
+* VPE takes the role of CC&CL approval. 
+
+  Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
+
+* Approve requests when a member finishes each level in pathways.
+
+  Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Pathways -&gt; Base Camp -&gt; Base Camp Manager -&gt; Pending Requests -&gt; Approve
 
 **Support Member Growth**
 
@@ -39,12 +45,13 @@ As vice president education, you schedule members’ speeches, verify the comple
 
 1. Member's willingness of joining Toastmaster
 2. Member's goal in Toastmaster this year
-3. Needed support for the members
-4. Authorize the access right to link \shg.cn.ao.ericsson.se\Shanghai\_TMC\public
-5. Arrange one supporter to the new member
+3. Members' needed support
+4. Access right to link \shg.cn.ao.ericsson.se\Shanghai\_TMC\public
+5. One supporter to the new member
 
-* Arrange P2P talk with other members to schedule the every half year plan in &lt;regular meeting plan link&gt;
-* Follow up the results of plan completion. Help members if they have problems to complete the plan.
+One example is in the &lt;link&gt;.
+
+* Support P2P talk with all members to schedule the every half year plan according to members' goal and fill in the role plan table.
 
 **Manage Supporter Program**
 
