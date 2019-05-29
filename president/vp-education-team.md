@@ -78,7 +78,7 @@ VPE drive different education program to help member learning better based on me
     * The Most Table Topic Attendees
 * * **Education related:** 
     * Achieve CC,CL,finish one level in pathway
-* Prepare gift and certificates before the meeting
+* Prepare gift and certificates before the meeting\(The certificates templates are under \shg.cn.ao.ericsson.se\Shanghai\_TMC\officers\gitbook\Certificate\_Templates\)
 * Get the person names about meeting related awards with the help of secretory.
 
 ## Reference
