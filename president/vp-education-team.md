@@ -31,17 +31,12 @@ As vice president education, you schedule members’ speeches, verify the comple
 
 #### Approve requests and awards
 
+* Approve requests when a member finishes each level in pathways.
+  * Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Pathways -&gt; Base Camp -&gt; Base Camp Manager -&gt; Pending Requests -&gt; Approve
+* Remind members to send notify to VPE for the pending request.
 * VPE takes the role of Base Camp manager in the Toastmasters Pathways. 
   * Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
-* Approve requests when a member finishes each level in pathways.
-
-  * Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Pathways -&gt; Base Camp -&gt; Base Camp Manager -&gt; Pending Requests -&gt; Approve
-
-  Remind members to send notify to VPE for the pending request. 
-
-  VPE takes the role of CC&CL approval. 
-
-  * Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central -    &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
+* VPE takes the role of CC&CL approval. Login [https://www.toastmasters.org](https://www.toastmasters.org), Go to Leadership Central - &gt; Club Central -&gt; Submit Education Awards -&gt; Select Member Name -&gt; Approve
 
 **Support Member Growth**
 
