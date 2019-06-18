@@ -12,7 +12,7 @@
 * [Club Speech Contest](way-of-working/club-speech-contest.md)
 * [Officers Team Building](way-of-working/officers-team-building.md)
 
-## Checklists
+## Checklists <a id="president"></a>
 
 * [President Team](president/president-team.md)
 * [VP Education Team](president/vp-education-team.md)
@@ -22,5 +22,5 @@
 * [Treasurer Team](president/treasurer-team.md)
 * [SAA Team](president/saa-team.md)
 
-## Q & A
+## Q & A <a id="questions-and-answers"></a>
 

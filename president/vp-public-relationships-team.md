@@ -23,7 +23,7 @@ Carry out publicity on behalf of the club, visit other clubs, and show the chara
 
 #### Regular Meeting Promotion \(Bi-Weekly\)
 
-* Settle meeting theme with meeting manager a week before the meeting 
+* Get meeting theme from meeting manager a week before the meeting 
 * If have guest introduction, see chapter "Guest Invitation"
 * Write and publish regular meeting promotion before Wednesday
 
@@ -35,7 +35,8 @@ Carry out publicity on behalf of the club, visit other clubs, and show the chara
 
   d. Broadcast wechat in wechat group
 
-Internal link guide for user/pwd: \\shg.cn.ao.ericsson.se\Shanghai\_TMC\officers\2014-2018\VPPR\Wechat\Wechat Guide.docx
+Internal link guide for user/pwd:   
+\\Internal link\Shanghai\_TMC\officers\2014-2018\VPPR\Wechat\Wechat Guide.docx
 
 #### New officer team introduction
 
