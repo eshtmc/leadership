@@ -34,6 +34,10 @@ Promote the club and manage the process of bringing in guests and transforming t
 
   TOASTMASTERS-SH
 
+* Add new member TMC public driver access
+
+        root\Shanghai\_TMC
+
 * Maintain member\_list.xlsx 
 
 ### Membership Renewal 
@@ -51,4 +55,5 @@ Promote the club and manage the process of bringing in guests and transforming t
 
 * Shanghai\_TMC\officers\Membership\member\_list.xlsx
 * Mail alias TOASTMASTERS-SH-GUESTS, TOASTMASTERS-SH
+* Birthday reminder-- outlook delay delivery function
 
