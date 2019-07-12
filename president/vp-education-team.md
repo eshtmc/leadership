@@ -11,7 +11,7 @@ As vice president education, you schedule members’ speeches, verify the comple
 * Support Member Growth
 * Manage Supportive Program
 * Drive Education Program
-* Offer Internal Awards
+* Officer Internal Awards
 
 ## Lazy Guide 
 
