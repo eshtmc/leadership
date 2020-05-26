@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:China Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=TOASTMASTERS-SH-OFFICERS;RSVP=TRUE:mailto:PDLTOASTMA@pdl.intern
+	al.ericsson.com
+ATTENDEE;CN=TOASTMASTERS-SH-GUESTS;RSVP=TRUE:mailto:PDLSTMASTE@pdl.internal
+	.ericsson.com
+ATTENDEE;CN=TOASTMASTERS-SH;RSVP=TRUE:mailto:PDLASTMAST@pdl.internal.ericss
+	on.com
+ATTENDEE;CN="Dongchen Tang";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:dongchen.
+	tang@ericsson.com
+ATTENDEE;CN="Michelle Jin";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:michelle.j
+	in@ericsson.com
+ATTENDEE;CN="Wei Wang J";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:wei.j.wang@e
+	ricsson.com
+ATTENDEE;CN="Maggie Li H";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:maggie.h.li
+	@ericsson.com
+ATTENDEE;CN="Hongyu Qi";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:hongyu.qi@eri
+	csson.com
+ATTENDEE;CN="Fang Yao";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:fang.yao@erics
+	son.com
+CLASS:PUBLIC
+CREATED:20200522T005036Z
+DESCRIPTION: \n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\
+	n \n\n \n\nDear Members & Guests\,\n\n \n\nHave you ever played the game 
+	‘Rock Paper Scissors’?\n\nDo you win every time?\n\nWelcome to join ou
+	r online meeting and share your thinking with us.\n\nYou can also join our
+	 WECHAT group for best speaker voting by following QR code.\n\n \n\n      
+	                   \n\n \n\nEvery weakness contains within itself a streng
+	th.\n\n— Shusaku Endo\n\nMeeting Agenda\n\n\n\n \n\nBest Regards\,\n\nES
+	HTMC Secretary team\n\n \n\n\n\n \n\n \n\n________________________________
+	________________________________________________ \n\nJoin Microsoft Teams 
+	Meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmM5MWIxMT
+	MtNDJmYy00MDk3LWE1NjktNTE1M2QyMWU0MDYy%40thread.v2/0?context=%7b%22Tid%22%
+	3a%2292e84ceb-fbfd-47ab-be52-080c6b87953f%22%2c%22Oid%22%3a%22e6b73f38-097
+	b-4646-a9c6-235cf4e667a2%22%7d>  \n\nLearn more about Teams <https://aka.m
+	s/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/meetin
+	gOptions/?organizerId=e6b73f38-097b-4646-a9c6-235cf4e667a2&tenantId=92e84c
+	eb-fbfd-47ab-be52-080c6b87953f&threadId=19_meeting_NmM5MWIxMTMtNDJmYy00MDk
+	3LWE1NjktNTE1M2QyMWU0MDYy@thread.v2&messageId=0&language=en-US>  \n\nJoin 
+	with a video conferencing device \n\nteams@video.meet.ericsson.net <mailto
+	:teams@video.meet.ericsson.net>  VTC Conference ID: 1279939800 \n\nAlterna
+	te VTC dialing instructions <https://video.meet.ericsson.net?/teams/?conf=
+	1279939800&ivr=teams&d=video.meet.ericsson.net&ip=193.180.251.91&test=test
+	call&w>  \n\nTo join from Ericsson Standard Video Conference device: Dial 
+	55 followed by VTC Conference ID. To join from Non-Ericsson video device: 
+	Dial teams@video.meet.ericsson.net <mailto:teams@video.meet.ericsson.net> 
+	\, enter the VTC Conference ID followed by # \n\nHelp <https://ericsson.sh
+	arepoint.com/:b:/r/sites/VideoconferencingforMicrosoftTeams/Shared%20Docum
+	ents/Help%20Instruction%20for%20Teams%20Meeting%20rooms.pdf?csf=1&e=NAEwXo
+	>  \n\n___________________________________________________________________
+	_____________ \n\n \n\n
+DTEND;TZID="China Standard Time":20200508T130000
+DTSTAMP:20200508T005208Z
+DTSTART;TZID="China Standard Time":20200508T115000
+LAST-MODIFIED:20200522T005036Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Lanlan Deng":mailto:lanlan.deng@ericsson.com
+PRIORITY:5
+SEQUENCE:2
+SUMMARY;LANGUAGE=en-us:ESHTMC Meeting #148 -  Rock Paper Scissors
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000ACE58E6CCE24D601000000000000000
+	0100000000875CB91007A054EB261F35552BB97A5
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:SimSun\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n@font-face\n	{font-fa
+	mily:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	{fon
+	t-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n@font-face\n	{font-
+	family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{font-fa
+	mily:"\\@DengXian"\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n@font-face\n	{font
+	-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2 3\;}\n@font-face\n	{fon
+	t-family:"Ericsson Hilda"\;\n	panose-1:0 0 5 0 0 0 0 0 0 0\;}\n@font-face\
+	n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2 11 7 2 4 2 4 2 2 3\;}\n@
+	font-face\n	{font-family:"\\@SimSun"\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n
+	@font-face\n	{font-family:HelveticaNeue-Light\;}\n@font-face\n	{font-famil
+	y:Avenir-Book\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, di
+	v.MsoNormal\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;
+	\n	font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso
+	-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:v
+	isited\, span.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954
+	F72\;\n	text-decoration:underline\;}\np.msonormal0\, li.msonormal0\, div.m
+	sonormal0\n	{mso-style-name:msonormal\;\n	mso-margin-top-alt:auto\;\n	marg
+	in-right:0in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	font-s
+	ize:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\nspan.EmailStyle18\n	{
+	mso-style-type:personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:expor
+	t-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\
+	n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1
+	\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" sp
+	idmax="1027" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayou
+	t v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml>
+	<![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div cl
+	ass=WordSection1><p class=MsoNormal><o:p>&nbsp\;</o:p></p><div align=cente
+	r><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=8
+	15 style='width:611.5pt\;background:#FAFAFA'><tr style='height:6.55pt'><td
+	 width=815 colspan=2 style='width:611.5pt\;padding:0in 0in 0in 0in\;height
+	:6.55pt'><p class=MsoNormal><span style='color:black'><img width=815 heigh
+	t=170 style='width:8.493in\;height:1.7708in' id="Picture_x0020_3" src="cid
+	:image011.jpg@01D62515.F457E430"></span><o:p></o:p></p></td></tr><tr style
+	='height:9.15pt'><td width=811 style='width:608.55pt\;padding:0in 0in 0in 
+	0in\;height:9.15pt'><p class=MsoNormal style='line-height:15.0pt\;mso-line
+	-height-rule:exactly'><span style='color:black'>&nbsp\;</span><o:p></o:p><
+	/p></td><td width=4 style='width:2.95pt\;padding:0in 0in 0in 0in\;height:9
+	.15pt'><p class=MsoNormal><span style='color:black'>&nbsp\;</span><o:p></o
+	:p></p></td></tr><tr style='height:1021.2pt'><td width=811 valign=top styl
+	e='width:608.55pt\;padding:0in 0in 0in 0in\;height:1021.2pt'><table class=
+	MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=747 style='width
+	:560.0pt'><tr style='height:6.55pt'><td width=0 valign=top style='width:.3
+	pt\;padding:0in 0in 0in 0in\;height:6.55pt'><p class=MsoNormal><o:p>&nbsp\
+	;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:
+	p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNo
+	rmal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p cla
+	ss=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></
+	p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;
+	</o:p></p></td><td width=3 style='width:2.3pt\;padding:0in 0in 0in 0in\;he
+	ight:6.55pt'><p class=MsoNormal>&nbsp\;<span style='font-size:12.0pt\;font
+	-family:SimSun'><o:p></o:p></span></p></td><td width=743 valign=top style=
+	'width:557.45pt\;padding:0in 0in 0in 0in\;height:6.55pt'><table class=MsoN
+	ormalTable border=0 cellspacing=0 cellpadding=0 width=743 style='width:557
+	.45pt'><tr style='height:6.55pt'><td width=743 valign=top style='width:557
+	.45pt\;padding:0in 0in 0in 0in\;height:6.55pt'><p class=MsoNormal style='m
+	so-margin-top-alt:6.0pt\;margin-right:0in\;margin-bottom:6.0pt\;margin-lef
+	t:0in\;line-height:12.75pt\;mso-line-height-rule:exactly'><span style='fon
+	t-size:14.0pt\;font-family:"Ericsson Hilda"'>Dear Members &amp\; Guests\,<
+	o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:6.0pt\;m
+	argin-right:0in\;margin-bottom:6.0pt\;margin-left:0in\;line-height:12.75pt
+	\;mso-line-height-rule:exactly'><span style='font-size:14.0pt\;font-family
+	:"Ericsson Hilda"'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal style='
+	mso-margin-top-alt:6.0pt\;margin-right:0in\;margin-bottom:6.0pt\;margin-le
+	ft:0in'><span style='font-size:14.0pt\;font-family:"Ericsson Hilda"'>Have 
+	you ever played the game ‘Rock Paper Scissors’?<o:p></o:p></span></p><
+	p class=MsoNormal style='mso-margin-top-alt:6.0pt\;margin-right:0in\;margi
+	n-bottom:6.0pt\;margin-left:0in'><span style='font-size:14.0pt\;font-famil
+	y:"Ericsson Hilda"'>Do you win every time?<o:p></o:p></span></p><p class=M
+	soNormal style='mso-margin-top-alt:6.0pt\;margin-right:0in\;margin-bottom:
+	6.0pt\;margin-left:0in'><span style='font-size:14.0pt\;font-family:"Ericss
+	on Hilda"'>Welcome to join our online meeting and share your thinking with
+	 us.<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:6.0
+	pt\;margin-right:0in\;margin-bottom:6.0pt\;margin-left:0in'><span style='f
+	ont-size:14.0pt\;font-family:"Ericsson Hilda"'>You can also join our WECHA
+	T group for best speaker voting by following QR code.<o:p></o:p></span></p
+	><p class=MsoNormal style='mso-margin-top-alt:6.0pt\;margin-right:0in\;mar
+	gin-bottom:6.0pt\;margin-left:0in'><span style='font-size:10.5pt\;font-fam
+	ily:"Arial"\,sans-serif'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal a
+	lign=center style='mso-margin-top-alt:6.0pt\;margin-right:0in\;margin-bott
+	om:6.0pt\;margin-left:0in\;text-align:center'><img width=184 height=211 st
+	yle='width:1.9166in\;height:2.2013in' id="Picture_x0020_8" src="cid:image0
+	12.jpg@01D62515.F457E430"><span style='font-family:"Arial"\,sans-serif'>&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
+	;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\;&nbsp\;&nbsp\; <img width=317 height=209 style='width:3.3055in\;height
+	:2.1805in' id="Picture_x0020_6" src="cid:image013.png@01D62515.F457E430"><
+	o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:6.0pt\;m
+	argin-right:0in\;margin-bottom:6.0pt\;margin-left:0in\;line-height:12.75pt
+	\;mso-line-height-rule:exactly'><span style='font-size:14.0pt\;font-family
+	:"Ericsson Hilda"\;color:red'><o:p>&nbsp\;</o:p></span></p><p class=MsoNor
+	mal align=center style='text-align:center\;text-autospace:none'><span styl
+	e='font-size:20.0pt\;font-family:Avenir-Book\;color:#E42400'>Every weaknes
+	s contains within itself a strength.<o:p></o:p></span></p><p class=MsoNorm
+	al align=right style='mso-margin-top-alt:6.0pt\;margin-right:0in\;margin-b
+	ottom:6.0pt\;margin-left:0in\;text-align:right\;line-height:12.75pt\;mso-l
+	ine-height-rule:exactly'><span style='font-size:20.0pt\;font-family:Avenir
+	-Book\;color:#E42400'>— Shusaku Endo</span><span style='font-size:22.0pt
+	\;font-family:"Ericsson Hilda"\;color:red'><o:p></o:p></span></p><p class=
+	MsoNormal align=center style='mso-margin-top-alt:6.0pt\;margin-right:0in\;
+	margin-bottom:6.0pt\;margin-left:0in\;text-align:center'><span style='font
+	-size:28.0pt\;font-family:HelveticaNeue-Light'>Meeting Agenda<o:p></o:p></
+	span></p><p class=MsoNormal align=center style='mso-margin-top-alt:6.0pt\;
+	margin-right:0in\;margin-bottom:6.0pt\;margin-left:0in\;text-align:center'
+	><img width=811 height=571 style='width:8.4513in\;height:5.9513in' id="Pic
+	ture_x0020_5" src="cid:image014.jpg@01D62515.F457E430"><span style='font-s
+	ize:28.0pt\;font-family:HelveticaNeue-Light'><o:p></o:p></span></p><p clas
+	s=MsoNormal style='mso-margin-top-alt:6.0pt\;margin-right:0in\;margin-bott
+	om:6.0pt\;margin-left:0in'><b><span style='font-size:12.0pt\;font-family:"
+	Ericsson Hilda"'><o:p>&nbsp\;</o:p></span></b></p><p class=MsoNormal style
+	='line-height:15.0pt\;mso-line-height-rule:exactly\;text-autospace:none'><
+	span style='font-size:14.0pt\;font-family:"Ericsson Hilda"\;color:black'>B
+	est Regards\,<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-to
+	p-alt:6.0pt\;margin-right:0in\;margin-bottom:6.0pt\;margin-left:0in'><span
+	 style='font-size:14.0pt\;font-family:"Ericsson Hilda"\;color:black'>ESHTM
+	C Secretary team<o:p></o:p></span></p><p class=MsoNormal style='mso-margin
+	-top-alt:6.0pt\;margin-right:0in\;margin-bottom:6.0pt\;margin-left:0in'><s
+	pan style='font-size:14.0pt\;font-family:"Ericsson Hilda"\;color:black'><o
+	:p>&nbsp\;</o:p></span></p></td></tr><tr style='height:6.55pt'><td width=7
+	43 valign=top style='width:557.45pt\;padding:0in 0in 0in 0in\;height:6.55p
+	t'><p class=MsoNormal style='margin-bottom:6.0pt\;line-height:12.75pt\;mso
+	-line-height-rule:exactly'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+	 coordsize="21600\,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@1
+	1@9@11@9@5xe" filled="f" stroked="f">\n<v:stroke joinstyle="miter" />\n<v:
+	formulas>\n<v:f eqn="if lineDrawn pixelLineWidth 0" />\n<v:f eqn="sum @0 1
+	 0" />\n<v:f eqn="sum 0 0 @1" />\n<v:f eqn="prod @2 1 2" />\n<v:f eqn="pro
+	d @3 21600 pixelWidth" />\n<v:f eqn="prod @3 21600 pixelHeight" />\n<v:f e
+	qn="sum @0 0 1" />\n<v:f eqn="prod @6 1 2" />\n<v:f eqn="prod @7 21600 pix
+	elWidth" />\n<v:f eqn="sum @8 21600 0" />\n<v:f eqn="prod @7 21600 pixelHe
+	ight" />\n<v:f eqn="sum @10 21600 0" />\n</v:formulas>\n<v:path o:extrusio
+	nok="f" gradientshapeok="t" o:connecttype="rect" />\n<o:lock v:ext="edit" 
+	aspectratio="t" />\n</v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x
+	0000_s1026" type="#_x0000_t75" style='position:absolute\;margin-left:-3.9p
+	t\;margin-top:-14.3pt\;width:616.3pt\;height:74.9pt\;z-index:251659264\;vi
+	sibility:visible\;mso-wrap-style:square\;mso-width-percent:0\;mso-height-p
+	ercent:0\;mso-wrap-distance-left:9pt\;mso-wrap-distance-top:0\;mso-wrap-di
+	stance-right:9pt\;mso-wrap-distance-bottom:0\;mso-position-horizontal:abso
+	lute\;mso-position-horizontal-relative:text\;mso-position-vertical:absolut
+	e\;mso-position-vertical-relative:text\;mso-width-percent:0\;mso-height-pe
+	rcent:0\;mso-width-relative:page\;mso-height-relative:page'>\n<v:imagedata
+	 src="cid:image007.jpg@01D62515.6E39F000" o:title="" />\n<w:anchorlock/>\n
+	</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout\;positi
+	on:absolute\;z-index:251659264\;margin-left:9px\;margin-top:719px\;width:1
+	233px\;height:150px'><img width=822 height=100 style='width:8.5625in\;heig
+	ht:1.0416in' src="cid:image015.jpg@01D62515.F457E430" v:shapes="Picture_x0
+	020_2"></span><![endif]><span style='font-size:14.0pt\;font-family:"Ericss
+	on Hilda"'><o:p></o:p></span></p></td></tr></table></td></tr></table></td>
+	<td width=4 style='width:2.95pt\;padding:0in 0in 0in 0in\;height:1021.2pt'
+	><p class=MsoNormal><span style='color:black'>&nbsp\;</span><o:p></o:p></p
+	></td></tr></table></div><p><o:p>&nbsp\;</o:p></p><div><div><p class=MsoNo
+	rmal><span style='color:gray'>____________________________________________
+	____________________________________</span> <o:p></o:p></p></div><div><div
+	 style='margin-top:.25in\;margin-bottom:7.5pt'><p class=MsoNormal><span st
+	yle='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="https://t
+	eams.microsoft.com/l/meetup-join/19%3ameeting_NmM5MWIxMTMtNDJmYy00MDk3LWE1
+	NjktNTE1M2QyMWU0MDYy%40thread.v2/0?context=%7b%22Tid%22%3a%2292e84ceb-fbfd
+	-47ab-be52-080c6b87953f%22%2c%22Oid%22%3a%22e6b73f38-097b-4646-a9c6-235cf4
+	e667a2%22%7d" target="_blank"><span style='font-size:13.5pt\;font-family:"
+	Segoe UI Semibold"\,sans-serif\;color:#6264A7'>Join Microsoft Teams Meetin
+	g</span></a> <o:p></o:p></span></p></div><p class=MsoNormal><span style='f
+	ont-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="https://aka.ms/
+	JoinTeamsMeeting" target="_blank"><span style='font-size:9.0pt\;color:#626
+	4A7'>Learn more about Teams</span></a> | <a href="https://teams.microsoft.
+	com/meetingOptions/?organizerId=e6b73f38-097b-4646-a9c6-235cf4e667a2&amp\;
+	tenantId=92e84ceb-fbfd-47ab-be52-080c6b87953f&amp\;threadId=19_meeting_NmM
+	5MWIxMTMtNDJmYy00MDk3LWE1NjktNTE1M2QyMWU0MDYy@thread.v2&amp\;messageId=0&a
+	mp\;language=en-US" target="_blank"><span style='font-size:9.0pt\;color:#6
+	264A7'>Meeting options</span></a> <o:p></o:p></span></p><div style='margin
+	-bottom:3.0pt'><p class=MsoNormal><span style='font-size:10.5pt\;font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#252424'>Join with a video conferencing d
+	evice <o:p></o:p></span></p></div><div style='margin-bottom:3.0pt'><p clas
+	s=MsoNormal><span class=MsoHyperlink><span style='font-size:9.0pt\;font-fa
+	mily:"Segoe UI"\,sans-serif\;color:#6264A7'><a href="mailto:teams@video.me
+	et.ericsson.net">teams@video.meet.ericsson.net</a></span></span><span styl
+	e='font-size:9.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'> VT
+	C Conference ID: 1279939800 <o:p></o:p></span></p></div><div style='margin
+	-bottom:15.0pt'><p class=MsoNormal><span style='font-size:9.0pt\;font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#252424'><a href="https://video.meet.eric
+	sson.net&#8203\;/teams/?conf=1279939800&amp\;ivr=teams&amp\;d=video.meet.e
+	ricsson.net&amp\;ip=193.180.251.91&amp\;test=testcall&amp\;w"><span style=
+	'color:#6264A7'>Alternate VTC dialing instructions</span></a> <o:p></o:p><
+	/span></p></div><div style='margin-bottom:3.0pt'><p class=MsoNormal><span 
+	style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424
+	'>To join from Ericsson Standard Video Conference device: Dial 55 followed
+	 by VTC Conference ID. To join from Non-Ericsson video device: Dial <a hre
+	f="mailto:teams@video.meet.ericsson.net">teams@video.meet.ericsson.net</a>
+	\, enter the VTC Conference ID followed by # <o:p></o:p></span></p></div><
+	div><p class=MsoNormal><span style='font-size:9.0pt\;font-family:"Segoe UI
+	"\,sans-serif\;color:#252424'><a href="https://ericsson.sharepoint.com/:b:
+	/r/sites/VideoconferencingforMicrosoftTeams/Shared%20Documents/Help%20Inst
+	ruction%20for%20Teams%20Meeting%20rooms.pdf?csf=1&amp\;e=NAEwXo"><span sty
+	le='color:#6264A7'>Help</span></a> <o:p></o:p></span></p></div></div><div>
+	<p class=MsoNormal><span style='color:gray'>______________________________
+	__________________________________________________</span> <o:p></o:p></p><
+	/div></div><p><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-APPTLASTSEQUENCE:2
+X-MS-OLK-APPTSEQTIME:20200508T005208Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+END:VEVENT
+END:VCALENDAR

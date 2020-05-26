@@ -39,15 +39,13 @@ TOASTMASTERS-SH-GUESTS &lt;PDLSTMASTE@pdl.internal.ericsson.com&gt;;
 
 **4**, freely write the meeting highlight introduction in the mail.
 
-![](file:///C:/Users/ezdenla/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+{% file src="../.gitbook/assets/eshtmc-meeting-148-rock-paper-scissors.ics" caption="Template for meeting request" %}
 
 #### **Keep officers team meeting minutes**
 
-1, secretary attend the officers meeting to write down decisions of the agenda items in [Shimo](shimo.im)
-
-2, president will write down the APs and save it to **shimo.im**.
-
-3, secretary will combine the decision and APs to send out the meeting minutes to the officers’ team.
+1. secretary attend the officers meeting to write down decisions of the agenda items in [Shimo](shimo.im);
+2. president will write down the APs and save it to **shimo.im;**
+3. secretary will combine the decision and APs to send out the meeting minutes to the officers’ team.
 
 #### **Regular Meeting Data Management**
 
@@ -55,7 +53,7 @@ All regular meeting data are stored in [Git hub](https://github.com/eshtmc/eshtm
 
 Data structure in Git hub as followings:
 
-![](file:///C:/Users/ezdenla/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![Folder structure in Git hub](../.gitbook/assets/image%20%282%29.png)
 
 **Data**
 
