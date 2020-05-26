@@ -2,63 +2,120 @@
 
 ## Responsibility 
 
-maintain all club records, manage club files, handle club correspondence, and take the minutes at each club and executive committee meeting. You are also in charge of updating and distributing a roster of the current paid membership, and keeping the club officer list current at World Headquarters.
+    Secretary team maintain all club records, manage club files, handle club correspondence, and take the minutes at each club and executive committee meeting. You are also in charge of updating and distributing [a roster of the current paid membership](https://www.toastmasters.org/my-toastmasters/profile/club-central/club-roster) and [keeping the club officer list current](https://www.toastmasters.org/my-toastmasters/profile/club-central/club-officer-assignment) at [World Headquarters](https://www.toastmasters.org/my-toastmasters/profile/club-central).
 
-Activities
+### Activities
 
 * Send Regular Meeting Invitation
 * Keep Officers Meeting's Meeting Minutes
-* Meeting Data Management
-* update the new officer list to TI
+* Regular Meeting Data Management
+* Update the new officer list to [TI](https://www.toastmasters.org/my-toastmasters/profile/club-central/club-officer-assignment)
+* Club shared folders backup
 
-Interaction
+### Interaction
 
-* VPE: award data
-* VPM: reimbursement data, \(VPM: timely update the mail-alias\)
-* Meeting Manager: meeting agenda
-* President: meeting minutes
+* VPE: send award data to VPE team as required
+* VPM: send all members’ attendance data for reimbursement needed to VPM \(VPM: timely update the mail-alias\)
+* Meeting Manager: ask meeting agenda from meeting manager in advance to prepare invitation
+* President: receive APs from president to send out officers meeting minutes
 
-Lazy Guide
+### **Lazy Guide**
 
-Send Regular Meeting Invitation 1, send meeting placeholder on Monday the meeting week
+#### **Send Regular Meeting Invitation**
 
-* members, guests mail alias
+**1**, send meeting placeholder on **Monday** the meeting week to members and guests mail alias.
 
-  2, get the agenda before Thursday the meeting week
+ TOASTMASTERS-SH-OFFICERS &lt;PDLTOASTMA@pdl.internal.ericsson.com&gt;;
 
-  3, update the meeting invitation with the agenda
+TOASTMASTERS-SH-GUESTS &lt;PDLSTMASTE@pdl.internal.ericsson.com&gt;;
 
-  4, freely write the meeting highlight introduction in the mail
+ TOASTMASTERS-SH 
 
-Keep officers team meeting minutes 1, secretary attend the officers meeting to write down decisions of the agenda items in Shimo.im 2, president will write down the APs and save it to shimo.im 3, secretary will combine the decison and APs to send out the meeting minutes to the officers team
+&lt;PDLASTMAST@pdl.internal.ericsson.com&gt;
 
-=&gt; president move the AP data to Shimo
+**2**, get the reviewed final agenda from meeting manager before **Wednesday** the meeting week.
 
-Meeting Data Management
+**3**, update the meeting invitation with the agenda.
 
-Data: group photo, participant info \(in case member have meeting\), Table Topic Participants, best awards, Meeting Role-Takers \(from meeting agenda\) Reimbursement Criteria: 7-3-1
+**4**, freely write the meeting highlight introduction in the mail.
 
-* Save Meeting Data
+![](file:///C:/Users/ezdenla/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
 
-1, collect data from meeting / agenda 2, collect the group photo from wechat group 3, update the github data sheet
+#### **Keep officers team meeting minutes**
 
-* Generate Data Report
+1, secretary attend the officers meeting to write down decisions of the agenda items in [Shimo](shimo.im)
 
-3, 9 VPM reimbursement 3, 9 VPE half year recognition
+2, president will write down the APs and save it to **shimo.im**.
 
-1, run script to generate report 2, manual create the kpi excel 3, review to prevent data error 4, send to VPE and VPM
+3, secretary will combine the decision and APs to send out the meeting minutes to the officers’ team.
 
-=&gt; optimize script for a. get data from one file instead of 3 b. auto generate kpi according to the criteria
+#### **Regular Meeting Data Management**
 
-Update new officer list to TI leadership -&gt; club central: http://
+All regular meeting data are stored in [Git hub](https://github.com/eshtmc/eshtmc.github.io). For each term, please create a folder \(format like 2020.04-2020.09\) under **membership/members** and **education/meetings** with the corresponding members data to record.
 
+Data structure in Git hub as followings:
 
+![](file:///C:/Users/ezdenla/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
 
-Tool
+**Data**
 
-* Shimo \(http://shimo.im\)
-* Github \(http://github.com\)
-* TI \(http://toastmasters.com\)
+* Group photo from SAA posted in WECHAT group \(ensure yourself joined in each regular meeting WECHAT group\)
+* Participant info \(in case member have meeting\)
+* Table Topic Participants \(Can get from vote data that SAA send in WECHAT group\)
+* Best awards \(from SAA or VPE\)
+* Meeting Role-Takers \(from meeting agenda, ensure yourself in WECHAT group in advance in case some role takers change due to emergency\)
+* Meeting theme score \(get from SAA\)
+* Reimbursement Criteria: get from VPM team
+
+**Save Meeting Data**
+
+**1**, collect data from meeting agenda and regular meeting;
+
+**2**, collect the group photo from WECHAT group;
+
+**3**, update the Git hub data sheet;
+
+**Generate Data Report**
+
+Secretary team will generate data report for VPM reimbursement and VPE half year recognition as required.
+
+Make sure you get the latest criteria from VPM team and update scripts for basic roles and advanced roles.
+
+1, run script to generate report
+
+2, manual create the KPI excel
+
+3, review to prevent data error
+
+4, send to VPE and VPM
+
+=&gt; optimize script for
+
+a. get data from one file instead of 3;
+
+b. auto generates KPI according to the criteria;
+
+#### **Update new officer list to TI leadership**
+
+Sync with officer team for the next term new officer list, update into TI before you **handle over** to the next term secretary team.
+
+#### **Club shared folder backup**
+
+Backup following club materials to somewhere as decided by officer team \(OneDrive available now, previously we have backup data in hard disk till Nov. 25th 2019\):
+
+\\shg.cn.ao.ericsson.se\Shanghai\_TMC\officers
+
+\\shg.cn.ao.ericsson.se\Shanghai\_TMC\public
+
+#### **Tool**
+
+Shimo \(http://shimo.im\)
+
+Github \(https://github.com/eshtmc/eshtmc.github.io\)
+
+TI \([https://www.toastmasters.org/My-Toastmasters/profile/club-central](https://www.toastmasters.org/My-Toastmasters/profile/club-central)\)
+
+For related user/password in tools, see [**\\shg.cn.ao.ericsson.se\Shanghai\_TMC\officers\gitbook\pwd.txt**](file://shg.cn.ao.ericsson.se/Shanghai_TMC/officers/gitbook/pwd.txt)
 
 
 
