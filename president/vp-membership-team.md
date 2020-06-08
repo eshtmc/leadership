@@ -39,6 +39,7 @@ Promote the club and manage the process of bringing in guests and transforming t
         root\Shanghai\_TMC
 
 * Maintain member\_list.xlsx 
+* Sync the new members info with Secretary team to record education and attendance information.
 
 ### Membership Renewal 
 
