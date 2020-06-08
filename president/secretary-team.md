@@ -25,13 +25,13 @@
 
 **1**, send meeting placeholder on **Monday** the meeting week to members and guests mail alias.
 
- TOASTMASTERS-SH-OFFICERS &lt;PDLTOASTMA@pdl.internal.ericsson.com&gt;;
+ TOASTMASTERS-SH-OFFICERS
+
+&lt;PDLTOASTMA@pdl.internal.ericsson.com&gt;;
 
 TOASTMASTERS-SH-GUESTS &lt;PDLSTMASTE@pdl.internal.ericsson.com&gt;;
 
- TOASTMASTERS-SH 
-
-&lt;PDLASTMAST@pdl.internal.ericsson.com&gt;
+ TOASTMASTERS-SH &lt;PDLASTMAST@pdl.internal.ericsson.com&gt;
 
 **2**, get the reviewed final agenda from meeting manager before **Wednesday** the meeting week.
 
@@ -50,6 +50,12 @@ TOASTMASTERS-SH-GUESTS &lt;PDLSTMASTE@pdl.internal.ericsson.com&gt;;
 #### **Regular Meeting Data Management**
 
 All regular meeting data are stored in [Git hub](https://github.com/eshtmc/eshtmc.github.io). For each term, please create a folder \(format like 2020.04-2020.09\) under **membership/members** and **education/meetings** with the corresponding members data to record.
+
+**Notes:**
+
+* **Timely update the member list list.md** for each term with VPM team especially when new members join in to make sure no member data missing for each regular meeting.
+* **Make sure each member names are the same in list.md file and in all education recording files.** For example, Sometimes agenda uses Stanley Feng as Xin Feng's English name, or Janice Deng as Qinzhen Deng's English name, then you need to record the member name in list.md file.
+* Attendance record under education folder is only recorded for members. But others like role takers, speakers, best awards are recorded for **both members and guests**. 
 
 Data structure in Git hub as followings:
 
