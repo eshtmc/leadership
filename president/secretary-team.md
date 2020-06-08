@@ -23,7 +23,7 @@
 
 #### **Send Regular Meeting Invitation**
 
-**1**, send meeting placeholder on **Monday** the meeting week to members and guests mail alias.
+**1**, send **meeting placeholder** on **Monday** the meeting week to members and guests mail alias.
 
  TOASTMASTERS-SH-OFFICERS
 
