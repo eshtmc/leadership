@@ -26,21 +26,25 @@
 
 #### Meeting Design
 
-* Brainstorming with VPM team the theme for the meeting
+* Brainstorming inside VPM team the theme for the meeting
+  * One practice is to have planning meeting to decide a member day's theme
+  * If the theme is new, plan some time to try out in advance
 * Check on "Members List" if any new comers join recently
 * Check on "Members List" the names of  birthday Toastmasters within recent two months
+* If the members' day is close to a festival, it's a good practice to prepare for the small membership gift
 * Design the meeting work flows
   * Opening warm up session 
   * New member welcome if have 
   * Celebrate birthday 
-  * Playing Games 
+  * Main activity according to the theme
   * Closing
-* Seek support from other teams if need  \(e.g. Materials or Tools from SAA , Broadcasting from VPPR\)
+* Seek support from other teams if need  \(e.g. Materials or Tools from SAA , promotion from VPPR\)
+  * The promotion can be flexible, important thing is to attract and engage members. Poster could be one option; but not limit to that
 * Define or invite Host for Members Day \(VPMs or others Toastmasters\)
 
 #### Birthday Cake
 
-* Buy cake \(fruits or snacks\) within the budget \(2-300 rmb\) 
+* Buy cake \(fruits or snacks\) within the budget \(500 rmb in total for one members' day\) 
 
 #### Execution 
 
@@ -65,16 +69,19 @@
 
 ## Members' Maintenance
 
-### Members Record Maintenance
-
-* 
 ### Birthday Greetings  
 
-* Get latest renewal from Toastmaster International -&gt; Club Rosters every semi-term \(July - Mar, Mar - June\)
-* Compare with member\_list.xlsx members not included 
-* Confirm with members not included in member\_list.xlsx the information needed 
 * Make reminder in calendar the upcoming birthdays 
 * Send greetings to birthday member by mail or in wechat group
+* Invite members who undergo birthday to the birthday celebration session in members day
+
+### Regular Conversation
+
+* Organize free-style small scale activities to connect members, e.g
+  * Join lunch
+  * Coffee Break / Fika
+  * Toastmasters Tool Hackathon
+  * etc
 
 ## Tools
 

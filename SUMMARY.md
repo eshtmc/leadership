@@ -22,5 +22,3 @@
 * [Treasurer Team](president/treasurer-team.md)
 * [SAA Team](president/saa-team.md)
 
-## Q & A <a id="questions-and-answers"></a>
-
