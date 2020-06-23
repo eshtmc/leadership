@@ -3,7 +3,7 @@
 ## Purpose  
 
 * The purpose for members day is to build social networking between members, celebrating member's birthday, giving best wishes, playing games, enjoying the joyful moment.
-* Members' Day planned bi-monthly. \(e.g. January, Mar, May, July, September, November\) 
+* Members' Day planned bi-monthly. \(When the new VPM team is on-board, pls decide the proposed dates and sync with the SAA team to book room\) 
 
 ## Lazy Guide 
 
@@ -11,15 +11,15 @@
 
 #### Planning
 
-* Pre-plaining twice in June before new officer installation \(During handover\) and December the end of first half term
 * Check with President or VPE if the yearly meeting arrangement is ready
-* Check on yearly meeting arrangement sheet choose date in odd month \(avoid regular meeting or any holidays\) define the date for the half year
-* Book Innovation Room in advance  \(12:00 - 13:00\) 
+* Pre-plaining twice in June before new officer installation \(During handover\) and December the end of first half term
+* Check on yearly meeting arrangement sheet choose date
+* Sync with the SAA team for default meeting room booking \(e.g Innovation Room\)
 
 ####  Announcement 
 
-* In officer meeting  before the members day notify officer committee and President to spare a slot for announcement in regular meeting
-* Book meeting room \(if Innovation Room is not available\) send meeting request to Toastmasters-SH after officer meeting
+* Send meeting request to Toastmasters-SH after officer meeting
+  * One practice is to send out the place-holder to reserve the time from members in advance
 * In regular meeting same week with officer meeting make announcement engaging members to join “Members’ Day”
 
 #### Preparation
