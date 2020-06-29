@@ -15,7 +15,7 @@
 ### Interaction
 
 * VPE: send award data to VPE team as required
-* VPM: send all members’ attendance data for reimbursement needed to VPM \(VPM: timely update the mail-alias\)
+* VPM: send all members’ attendance data for reimbursement needed to VPM \(VPM: timely update the mail-alias and sync to Secretary\)
 * Meeting Manager: ask meeting agenda from meeting manager in advance to prepare invitation
 * President: receive APs from president to send out officers meeting minutes
 
@@ -43,9 +43,13 @@ TOASTMASTERS-SH-GUESTS &lt;PDLSTMASTE@pdl.internal.ericsson.com&gt;;
 
 #### **Keep officers team meeting minutes**
 
-1. secretary attend the officers meeting to write down decisions of the agenda items in [Shimo](shimo.im);
-2. president will write down the APs and save it to **shimo.im;**
+1. secretary attend the officers meeting to write down decisions of the agenda items in [Shimo](shimo.im) \(create a new document under folder desktop/Leadership/&lt;current term&gt; to record\);
+2. president will write down the APs \([https://shimo.im/sheets/nXsBga7bcRggYFJ4/1TgMR](https://shimo.im/sheets/nXsBga7bcRggYFJ4/1TgMR)\)and save it to **shimo.im;**
 3. secretary will combine the decision and APs to send out the meeting minutes to the officers’ team.
+
+Folder structure in Shimo:
+
+![Folder Structure in Shimo](../.gitbook/assets/image%20%283%29.png)
 
 #### **Regular Meeting Data Management**
 
@@ -63,7 +67,7 @@ Data structure in Git hub as followings:
 
 **Data**
 
-* Group photo from SAA posted in WECHAT group \(ensure yourself joined in each regular meeting WECHAT group\)
+* Group photo from SAA posted in WECHAT group \(ensure yourself joined in each regular meeting WECHAT group, no need to keep photos\)
 * Participant info \(in case member have meeting\)
 * Table Topic Participants \(Can get from vote data that SAA send in WECHAT group\)
 * Best awards \(from SAA or VPE\)
