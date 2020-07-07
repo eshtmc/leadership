@@ -31,15 +31,14 @@ description: Use this book as checklist too
 ## Meeting Preparation  \(Arrive in meeting room before 11:40\)
 
 1. Confirm with Meeting Manager about projector usage 
-2. Confirm with Meeting Manager about video record 
-3. Ask the Meeting Manager for agenda
-4. Bring inventory box and flag from box keeper meeting room 
-5. Put seats, flag & white board \(for word of the day and TT name list\) at the right place. 
-6. Put record forms and timers' items on role takers' seats. The seats are middle of the 1st row 
-7. Put hammer, award ribbons, white board and normal pens on the table close to the stage 
-8. Put meeting agenda on seats 
-9. Check projector if needed 
-10. Ask guest to fill in Guests Registration Form. SAA is the first impression for the guests. Introduce the club, answer questions and smile!
+2. Ask the Meeting Manager for agenda
+3. Bring inventory box and flag from box keeper meeting room 
+4. Put seats, flag & white board \(for word of the day and TT name list\) at the right place. 
+5. Put record forms and timers' items on role takers' seats. The seats are middle of the 1st row 
+6. Put hammer, award ribbons, white board and normal pens on the table close to the stage 
+7. Put meeting agenda on seats 
+8. Check projector if needed 
+9. Ask guest to fill in Guests Registration Form. SAA is the first impression for the guests. Introduce the club, answer questions and smile!
 
 ## In Meeting
 
@@ -68,9 +67,7 @@ Note 1: no need for best Prepared speaker or IE if speeches &lt;= 2 Note 2: spea
 
 5.Update guest info in Shanghai\_TMC\officers\Membership\Member\_list.xlsx
 
-6.Notify VPM for new guest and eligible guest for membership
-
-7.Notify Secretary team for the Meeting Theme score \(if vote has been requested by VPE\)
+6.Notify Secretary team for the Meeting Theme score \(if vote has been requested by VPE\)
 
 ## Warehouse
 
